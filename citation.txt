@@ -1,0 +1,6 @@
+@inproceedings{REPO209,
+    author = "Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    title = "{Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation}",
+    year = "2023"
+}
